@@ -12,4 +12,4 @@ Traffic Sign Recognition AI with CNN
 
 - [https://universe.roboflow.com/sit-asmsw/road-sign-detection-in-real-time](https://universe.roboflow.com/sit-asmsw/road-sign-detection-in-real-time)
 
-- [https://nlpr.ia.ac.cn/pal/trafficdata/recognition.html](https://nlpr.ia.ac.cn/pal/trafficdata/recognition.html)
+- [https://nlpr.ia.ac.cn/pal/trafficdata/recognition.html](https://nlpr.ia.ac.cn/pal/trafficdata/recognition.html) - turns out that this is an older version of the same chinese traffic signs dataset
