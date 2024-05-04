@@ -1,5 +1,8 @@
 #!/bin/python
 
+# This python organiser is made for the dataset/Chinese-Traffic-Signs
+# So that I can organise the data to my dataset/final_data folder with my own structure
+
 import os
 import shutil
 import csv
