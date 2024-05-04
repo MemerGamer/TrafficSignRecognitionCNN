@@ -24,5 +24,6 @@ Traffic Sign Recognition AI with CNN
 - Move a single image from a directory called `"-"` to `speed_limit_30` in `temp_road_sign_dataset` MANUALLY
 - From root directory run [organiser4.py](./organiser4.py)
 - Move the images from `final_dataset/barrier_ahead` to `final_dateset/fences` and `final_dataset/train_crossing` MANUALLY
-- Update the `final_dataset/info.csv` with [info_updater.py](./info_updater.py)
+- Update the `final_dataset/info.cs v` with [info_updater.py](./info_updater.py)
+- Extra: added the following DALL-E generated images as well to `final_dataset/stop`: `5b93dfde-544a-4eb4-93be-795ba4de2528.png` and `db27620d-3ec7-4709-9612-6d256cd17d90.png`
 - Compress the dataset, and upload to google drive
