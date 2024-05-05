@@ -15,7 +15,9 @@ def create_info_csv(final_dataset_path):
             row = [folder_name, num_images] + keywords
             rows.append(row)
 
-    rows.sort(key=lambda x: x[0])  # Sort rows by folder name
+    rows.sort(
+        key=lambda x: x[1], reverse=True
+    )  # Sort rows by number of images in descending order
 
     with open(info_csv_path, "w", newline="") as file:
         writer = csv.writer(file)
